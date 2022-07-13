@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\bin\Debug\net6.0\ImplicitylyTypeLocal.exe
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\bin\Debug\net6.0\ImplicitylyTypeLocal.deps.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\bin\Debug\net6.0\ImplicitylyTypeLocal.runtimeconfig.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\bin\Debug\net6.0\ImplicitylyTypeLocal.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\bin\Debug\net6.0\ImplicitylyTypeLocal.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\obj\Debug\net6.0\ImplicitylyTypeLocal.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\obj\Debug\net6.0\ImplicitylyTypeLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\obj\Debug\net6.0\ImplicitylyTypeLocal.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\obj\Debug\net6.0\ImplicitylyTypeLocal.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\obj\Debug\net6.0\ImplicitylyTypeLocal.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\obj\Debug\net6.0\ImplicitylyTypeLocal.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\obj\Debug\net6.0\refint\ImplicitylyTypeLocal.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\obj\Debug\net6.0\ImplicitylyTypeLocal.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\obj\Debug\net6.0\ImplicitylyTypeLocal.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session01\ImplicitylyTypeLocal\obj\Debug\net6.0\ref\ImplicitylyTypeLocal.dll
