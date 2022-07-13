@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\bin\Debug\net6.0\ObjectArray.exe
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\bin\Debug\net6.0\ObjectArray.deps.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\bin\Debug\net6.0\ObjectArray.runtimeconfig.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\bin\Debug\net6.0\ObjectArray.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\bin\Debug\net6.0\ObjectArray.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\obj\Debug\net6.0\ObjectArray.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\obj\Debug\net6.0\ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\obj\Debug\net6.0\ObjectArray.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\obj\Debug\net6.0\ObjectArray.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\obj\Debug\net6.0\ObjectArray.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\obj\Debug\net6.0\ObjectArray.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\obj\Debug\net6.0\refint\ObjectArray.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\obj\Debug\net6.0\ObjectArray.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\obj\Debug\net6.0\ObjectArray.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task4\ObjectArray\obj\Debug\net6.0\ref\ObjectArray.dll
