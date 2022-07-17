@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\obj\Debug\net6.0\Demo08.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\obj\Debug\net6.0\Demo08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\obj\Debug\net6.0\Demo08.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\obj\Debug\net6.0\Demo08.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\obj\Debug\net6.0\Demo08.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\bin\Debug\net6.0\Demo08.exe
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\bin\Debug\net6.0\Demo08.deps.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\bin\Debug\net6.0\Demo08.runtimeconfig.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\bin\Debug\net6.0\Demo08.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\bin\Debug\net6.0\Demo08.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\obj\Debug\net6.0\Demo08.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\obj\Debug\net6.0\refint\Demo08.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\obj\Debug\net6.0\Demo08.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\obj\Debug\net6.0\Demo08.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\Demo08\obj\Debug\net6.0\ref\Demo08.dll
