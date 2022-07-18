@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\bin\Debug\net6.0\GeometricObject.exe
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\bin\Debug\net6.0\GeometricObject.deps.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\bin\Debug\net6.0\GeometricObject.runtimeconfig.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\bin\Debug\net6.0\GeometricObject.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\bin\Debug\net6.0\GeometricObject.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\obj\Debug\net6.0\GeometricObject.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\obj\Debug\net6.0\GeometricObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\obj\Debug\net6.0\GeometricObject.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\obj\Debug\net6.0\GeometricObject.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\obj\Debug\net6.0\GeometricObject.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\obj\Debug\net6.0\GeometricObject.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\obj\Debug\net6.0\refint\GeometricObject.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\obj\Debug\net6.0\GeometricObject.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\obj\Debug\net6.0\GeometricObject.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task9\GeometricObject\obj\Debug\net6.0\ref\GeometricObject.dll
