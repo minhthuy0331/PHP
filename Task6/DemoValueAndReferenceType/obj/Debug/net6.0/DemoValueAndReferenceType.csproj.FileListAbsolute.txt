@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\obj\Debug\net6.0\DemoValueAndReferenceType.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\obj\Debug\net6.0\DemoValueAndReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\obj\Debug\net6.0\DemoValueAndReferenceType.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\obj\Debug\net6.0\DemoValueAndReferenceType.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\obj\Debug\net6.0\DemoValueAndReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\bin\Debug\net6.0\DemoValueAndReferenceType.exe
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\bin\Debug\net6.0\DemoValueAndReferenceType.deps.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\bin\Debug\net6.0\DemoValueAndReferenceType.runtimeconfig.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\bin\Debug\net6.0\DemoValueAndReferenceType.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\bin\Debug\net6.0\DemoValueAndReferenceType.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\obj\Debug\net6.0\DemoValueAndReferenceType.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\obj\Debug\net6.0\refint\DemoValueAndReferenceType.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\obj\Debug\net6.0\DemoValueAndReferenceType.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\obj\Debug\net6.0\DemoValueAndReferenceType.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task6\DemoValueAndReferenceType\obj\Debug\net6.0\ref\DemoValueAndReferenceType.dll
