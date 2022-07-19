@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\bin\Debug\net6.0\Project5_Method.exe
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\bin\Debug\net6.0\Project5_Method.deps.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\bin\Debug\net6.0\Project5_Method.runtimeconfig.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\bin\Debug\net6.0\Project5_Method.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\bin\Debug\net6.0\Project5_Method.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\obj\Debug\net6.0\Project5_Method.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\obj\Debug\net6.0\Project5_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\obj\Debug\net6.0\Project5_Method.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\obj\Debug\net6.0\Project5_Method.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\obj\Debug\net6.0\Project5_Method.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\obj\Debug\net6.0\Project5_Method.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\obj\Debug\net6.0\refint\Project5_Method.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\obj\Debug\net6.0\Project5_Method.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\obj\Debug\net6.0\Project5_Method.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project5_Method\obj\Debug\net6.0\ref\Project5_Method.dll

@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\bin\Debug\net6.0\Project4_Instantiating.exe
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\bin\Debug\net6.0\Project4_Instantiating.deps.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\bin\Debug\net6.0\Project4_Instantiating.runtimeconfig.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\bin\Debug\net6.0\Project4_Instantiating.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\bin\Debug\net6.0\Project4_Instantiating.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\obj\Debug\net6.0\Project4_Instantiating.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\obj\Debug\net6.0\Project4_Instantiating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\obj\Debug\net6.0\Project4_Instantiating.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\obj\Debug\net6.0\Project4_Instantiating.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\obj\Debug\net6.0\Project4_Instantiating.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\obj\Debug\net6.0\Project4_Instantiating.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\obj\Debug\net6.0\refint\Project4_Instantiating.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\obj\Debug\net6.0\Project4_Instantiating.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\obj\Debug\net6.0\Project4_Instantiating.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project4_Instantiating\obj\Debug\net6.0\ref\Project4_Instantiating.dll

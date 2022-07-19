@@ -1,0 +1,5 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project3_Extension_Method\obj\Debug\net6.0\Project3_Extension_Method.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project3_Extension_Method\obj\Debug\net6.0\Project3_Extension_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project3_Extension_Method\obj\Debug\net6.0\Project3_Extension_Method.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project3_Extension_Method\obj\Debug\net6.0\Project3_Extension_Method.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project3_Extension_Method\obj\Debug\net6.0\Project3_Extension_Method.csproj.CoreCompileInputs.cache

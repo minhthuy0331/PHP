@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\obj\Debug\net6.0\Project2_Destructor.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\obj\Debug\net6.0\Project2_Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\obj\Debug\net6.0\Project2_Destructor.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\obj\Debug\net6.0\Project2_Destructor.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\obj\Debug\net6.0\Project2_Destructor.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\bin\Debug\net6.0\Project2_Destructor.exe
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\bin\Debug\net6.0\Project2_Destructor.deps.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\bin\Debug\net6.0\Project2_Destructor.runtimeconfig.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\bin\Debug\net6.0\Project2_Destructor.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\bin\Debug\net6.0\Project2_Destructor.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\obj\Debug\net6.0\Project2_Destructor.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\obj\Debug\net6.0\refint\Project2_Destructor.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\obj\Debug\net6.0\Project2_Destructor.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\obj\Debug\net6.0\Project2_Destructor.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project2_Destructor\obj\Debug\net6.0\ref\Project2_Destructor.dll

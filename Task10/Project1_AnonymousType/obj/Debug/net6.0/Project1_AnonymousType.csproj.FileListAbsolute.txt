@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\bin\Debug\net6.0\Project1_AnonymousType.exe
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\bin\Debug\net6.0\Project1_AnonymousType.deps.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\bin\Debug\net6.0\Project1_AnonymousType.runtimeconfig.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\bin\Debug\net6.0\Project1_AnonymousType.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\bin\Debug\net6.0\Project1_AnonymousType.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\obj\Debug\net6.0\Project1_AnonymousType.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\obj\Debug\net6.0\Project1_AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\obj\Debug\net6.0\Project1_AnonymousType.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\obj\Debug\net6.0\Project1_AnonymousType.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\obj\Debug\net6.0\Project1_AnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\obj\Debug\net6.0\Project1_AnonymousType.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\obj\Debug\net6.0\refint\Project1_AnonymousType.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\obj\Debug\net6.0\Project1_AnonymousType.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\obj\Debug\net6.0\Project1_AnonymousType.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project1_AnonymousType\obj\Debug\net6.0\ref\Project1_AnonymousType.dll

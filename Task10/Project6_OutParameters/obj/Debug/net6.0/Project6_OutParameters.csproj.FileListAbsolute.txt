@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\bin\Debug\net6.0\Project6_OutParameters.exe
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\bin\Debug\net6.0\Project6_OutParameters.deps.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\bin\Debug\net6.0\Project6_OutParameters.runtimeconfig.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\bin\Debug\net6.0\Project6_OutParameters.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\bin\Debug\net6.0\Project6_OutParameters.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\obj\Debug\net6.0\Project6_OutParameters.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\obj\Debug\net6.0\Project6_OutParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\obj\Debug\net6.0\Project6_OutParameters.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\obj\Debug\net6.0\Project6_OutParameters.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\obj\Debug\net6.0\Project6_OutParameters.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\obj\Debug\net6.0\Project6_OutParameters.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\obj\Debug\net6.0\refint\Project6_OutParameters.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\obj\Debug\net6.0\Project6_OutParameters.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\obj\Debug\net6.0\Project6_OutParameters.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Task10\Project6_OutParameters\obj\Debug\net6.0\ref\Project6_OutParameters.dll
