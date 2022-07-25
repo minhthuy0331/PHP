@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\bin\Debug\net6.0\Ex5_FinallyStmt.exe
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\bin\Debug\net6.0\Ex5_FinallyStmt.deps.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\bin\Debug\net6.0\Ex5_FinallyStmt.runtimeconfig.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\bin\Debug\net6.0\Ex5_FinallyStmt.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\bin\Debug\net6.0\Ex5_FinallyStmt.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\obj\Debug\net6.0\Ex5_FinallyStmt.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\obj\Debug\net6.0\Ex5_FinallyStmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\obj\Debug\net6.0\Ex5_FinallyStmt.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\obj\Debug\net6.0\Ex5_FinallyStmt.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\obj\Debug\net6.0\Ex5_FinallyStmt.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\obj\Debug\net6.0\Ex5_FinallyStmt.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\obj\Debug\net6.0\refint\Ex5_FinallyStmt.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\obj\Debug\net6.0\Ex5_FinallyStmt.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\obj\Debug\net6.0\Ex5_FinallyStmt.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex5_FinallyStmt\obj\Debug\net6.0\ref\Ex5_FinallyStmt.dll

@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\bin\Debug\net6.0\Namespace.exe
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\bin\Debug\net6.0\Namespace.deps.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\bin\Debug\net6.0\Namespace.runtimeconfig.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\bin\Debug\net6.0\Namespace.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\bin\Debug\net6.0\Namespace.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\obj\Debug\net6.0\Namespace.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\obj\Debug\net6.0\Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\obj\Debug\net6.0\Namespace.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\obj\Debug\net6.0\Namespace.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\obj\Debug\net6.0\Namespace.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\obj\Debug\net6.0\Namespace.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\obj\Debug\net6.0\refint\Namespace.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\obj\Debug\net6.0\Namespace.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\obj\Debug\net6.0\Namespace.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Namespace\obj\Debug\net6.0\ref\Namespace.dll

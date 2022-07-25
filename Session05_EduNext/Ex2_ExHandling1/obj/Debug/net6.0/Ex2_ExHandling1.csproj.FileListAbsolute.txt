@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\bin\Debug\net6.0\Ex2_ExHandling1.exe
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\bin\Debug\net6.0\Ex2_ExHandling1.deps.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\bin\Debug\net6.0\Ex2_ExHandling1.runtimeconfig.json
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\bin\Debug\net6.0\Ex2_ExHandling1.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\bin\Debug\net6.0\Ex2_ExHandling1.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\obj\Debug\net6.0\Ex2_ExHandling1.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\obj\Debug\net6.0\Ex2_ExHandling1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\obj\Debug\net6.0\Ex2_ExHandling1.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\obj\Debug\net6.0\Ex2_ExHandling1.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\obj\Debug\net6.0\Ex2_ExHandling1.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\obj\Debug\net6.0\Ex2_ExHandling1.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\obj\Debug\net6.0\refint\Ex2_ExHandling1.dll
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\obj\Debug\net6.0\Ex2_ExHandling1.pdb
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\obj\Debug\net6.0\Ex2_ExHandling1.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Tài liệu\GitHub\PHP\Session05_EduNext\Ex2_ExHandling1\obj\Debug\net6.0\ref\Ex2_ExHandling1.dll
